@@ -13,11 +13,8 @@ Unity is a popular engine, and that makes it a good opportunity to find solution
 🎹 *Music is made by myself and my friend. It can be found on our Soundcloud page. https://soundcloud.com/wintergrasp*
 
 ## Takeaways 📝
-With my first personal project with Django, I learned:
+With this project, I:
   <ul>
-    <li>Model, view, template creation and management✔️</li>
-    <li>Practiced with Forms and URLs✔️</li>
-    <li>User registration, Login and Logout ✔️</li>
-    <li>Began learning Bootstrap✔️</li>
+    <li>Refreshed my C# knowledge✔️</li>
+    <li>Managed C# scripts with Unity objects✔️</li>
   </ul>
-
